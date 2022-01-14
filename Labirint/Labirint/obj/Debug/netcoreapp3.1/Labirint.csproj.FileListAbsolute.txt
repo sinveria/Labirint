@@ -1,0 +1,11 @@
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.exe
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.deps.json
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.runtimeconfig.json
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.runtimeconfig.dev.json
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.dll
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.pdb
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.csprojAssemblyReference.cache
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.AssemblyInfoInputs.cache
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.AssemblyInfo.cs
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.dll
+D:\Перевалова\Перевалова\Labirint\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.pdb
